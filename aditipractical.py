@@ -1,3 +1,3 @@
-int a=40
-int b=20
+a=40
+b=20
 print (a+b)
